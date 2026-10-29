@@ -1,0 +1,9 @@
+HeritageTRACE
+Copyright 2026 HeritageTRACE contributors
+
+The Laya training implementations in training/ are adapted from the Laya project:
+https://github.com/NandhaKishorM/laya
+https://huggingface.co/convaiinnovations/laya
+Laya identifies its project/model distribution as Apache-2.0; upstream rights and notices apply. The adapted files retain references to their original training routines.
+
+Underlying mmBERT/ModernBERT models and optional platform/client packages are separate works and are not bundled here. Their applicable licences must be retained when installed or redistributed.

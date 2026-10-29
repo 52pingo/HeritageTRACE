@@ -1,0 +1,1 @@
+All example records are fictional software fixtures. They are not training labels, research observations or evidence for transfer accuracy. The Third-Line question definitions are the project schema; no private reference corpus or field imagery is redistributed.

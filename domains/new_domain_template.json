@@ -1,0 +1,11 @@
+{
+  "relevance": {
+    "type": "choice",
+    "instructions": "[DEFINE THE HERITAGE QUESTION]",
+    "criteria": {
+      "relevant": "[DEFINE RELEVANT]",
+      "irrelevant": "[DEFINE IRRELEVANT]",
+      "unclear": "Insufficient evidence"
+    }
+  }
+}

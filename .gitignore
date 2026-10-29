@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv*/
+.env
+.env.*
+!.env.example
+data/
+checkpoints/
+*.safetensors
+*.pt
+*.sqlite*
+*.log
+*_profile/
+*_cookie*
+build/
+dist/
+*.egg-info/

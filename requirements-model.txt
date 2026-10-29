@@ -1,0 +1,5 @@
+laya==0.4.11
+torch>=2.5
+transformers>=4.57,<5
+safetensors>=0.4
+numpy>=1.26
